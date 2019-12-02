@@ -1,0 +1,2 @@
+
+dupa = input("pokaz dupe: ")
