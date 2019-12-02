@@ -1,2 +1,3 @@
+import sys
 
-dupa = input("pokaz dupe: ")
+with open("ideatxt.txt", "a")
